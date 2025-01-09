@@ -15,7 +15,7 @@ koin = "3.5.3"
 koin-compose = "1.1.2"
 kotlinx-io = "0.3.0"
 logger = "2.0.11"
-webview = "1.8.0"
+webview = "1.9.40"
 
 [plugins]
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
